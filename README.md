@@ -17,4 +17,4 @@ Features
 The Future
 ---------- 
 
-- Determine the "best guess" triangulation coordinate given an set of intersecting circles.
+- Determine the "best guess" triangulation coordinate given a set of intersecting circles.
